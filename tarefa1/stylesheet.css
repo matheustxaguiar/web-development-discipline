@@ -1,0 +1,38 @@
+*{
+    background-color: #f4f4f4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #9ba657;
+}
+
+
+table {
+    align: center;
+}
+
+figcaption {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    display: block;
+    margin: 0 auto; 
+    width: 400px;
+    border: 5px solid #594433;
+}
+
+footer {
+    margin-bottom: 7rem;
+}
